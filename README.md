@@ -12,7 +12,10 @@ devtools::install_github("adrielhamptongroup/accurateappendr")
 
 ## Usage
 
-One method implemented so far: consumer phone number lookup.
-See `?consumer_phone` for usage details. 
+Implemented methods:
+
+* Consumer phone number lookup (See `?consumer_phone` for details)
+* Reverse E-mail lookup (See `?reverse_email` for details)
+
 You will need to provide your own API key.
 
